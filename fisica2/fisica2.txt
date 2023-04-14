@@ -1,0 +1,1 @@
+Q = Cantidad de carga
